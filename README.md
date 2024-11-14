@@ -11,7 +11,7 @@ Welcome! This guide will walk you through the steps to set up the essential tool
 
 WPILib provides libraries and tools needed for programming in the FRC environment.
 
-1. Download the WPILib installer from the [official WPILib website]([https://wpilib.org/downloads](https://frcmaven.wpi.edu/api/download/installer/v2024.3.2/Win64/WPILib_Windows-2024.3.2.iso)).
+1. Download the WPILib installer from the [official WPILib website](https://frcmaven.wpi.edu/api/download/installer/v2024.3.2/Win64/WPILib_Windows-2024.3.2.iso).
 2. Run the installer and follow the prompts. Make sure to select **"Add desktop icons"** if you want easy access.
 
    ![WPILib Installation](https://link-to-wpilib-image.png)
