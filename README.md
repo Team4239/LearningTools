@@ -3,7 +3,9 @@ Tools for the upcoming coding class Nov. 25, 2024.
 
 # FRC Programming Setup Guide
 
-Welcome! This guide will walk you through the steps to set up the essential tools for programming your FRC robot, including WPILib, Visual Studio Code (VS Code), FRC Game Tools, and GitHub. By the end, you’ll have your environment ready and be able to hook your repository with GitHub.
+Hey guys! Team 4239, Willmar Area Robotics here. 
+Below, we have listed a few required downloads for the upcoming class on Monday as well as a quick explanation of each program.
+By the end, you should have installed and setup WPILIB, VS Code, FRC Gametools, and GitHub.
 
 ---
 
@@ -80,4 +82,12 @@ GitHub is used for version control and collaboration in FRC. Setting up a reposi
 
 ## Conclusion
 
-You’re all set up to start programming! If you encounter any issues, refer to the documentation for each tool, or reach out to your mentors. Happy coding and best of luck with your FRC season!
+Well, hopefully everything has gone well. 
+If not, we are always open to questions at warpspeed@willmar.org
+If that doesn't work, you can also try our emails at oswood44@gmail.com & miguelgarc5605@gmail.com
+You should be prepared for the upcoming class; We look forward to seeing you there!
+
+Thanks again for reading through the file, 
+   Miguel Garcia
+   Vince Hawktoah
+   Sam Oswood
