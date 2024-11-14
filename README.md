@@ -62,9 +62,6 @@ GitHub is used for version control and collaboration in FRC. Setting up a reposi
 3. Clone or initialize a repository:
    - Open GitHub Desktop and click **File > Clone Repository** if you’re cloning an existing one.
    - To create a new repository, select **File > New Repository**.
-
-   ![GitHub Desktop Interface](https://link-to-github-image.png)
-
 4. Link your local repository with GitHub:
    - In VS Code, open the integrated terminal.
    - Run the following commands to link your local folder to the remote GitHub repository:
