@@ -27,9 +27,7 @@ The FRC Game Tools package includes essential software for communicating with th
 
 1. Download FRC Game Tools from [National Instruments](https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html).
 2. Run the installer and follow the instructions to complete the installation.
-3. After installation, ensure you have the latest updates by running the **NI Package Manager**.
-
-   ![FRC Game Tools Installation](https://link-to-game-tools-image.png)
+3. After installation, you should have the FRC Driver Station installed on your computer.
 
 ---
 
