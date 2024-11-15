@@ -26,7 +26,7 @@ WPILib provides libraries and tools needed for programming in the FRC environmen
 The FRC Game Tools package includes essential software for communicating with the FRC control system.
 
 1. Download FRC Game Tools from [National Instruments](https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html).
-2. For an in depth guide, click [this](
+2. For an in depth guide, click [this](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html)
 3. After installation, you should have the FRC Driver Station and a few other software tools installed on your computer.
 
 ---
