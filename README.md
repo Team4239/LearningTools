@@ -7,6 +7,8 @@ Hey guys! Team 4239, Willmar Area Robotics here.
 Below, we have listed a few required downloads for the upcoming class on Monday as well as a quick explanation of each program.
 By the end, you should have installed and setup WPILIB, VS Code, FRC Gametools, and GitHub.
 
+The Official FRC software installation guide can be found [here](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html)
+
 ---
 
 ## 1. Install WPILib
