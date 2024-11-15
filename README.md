@@ -35,16 +35,13 @@ The FRC Game Tools package includes essential software for communicating with th
 
 GitHub is used for version control and collaboration in FRC. Setting up a repository allows you to save and share your code with your team.
 
-1. Install Git:
-   - Download the installer from [Git for Windows](https://git-scm.com/download/win).
-   - Follow the installation steps.
-2. Install GitHub Desktop (optional for GUI management):
+1. Install GitHub Desktop:
    - Download from [GitHub Desktop](https://desktop.github.com/).
    - Log in to your GitHub account.
-3. Clone or initialize a repository:
+2. Clone or initialize a repository:
    - Open GitHub Desktop and click **File > Clone Repository** if you’re cloning an existing one.
    - To create a new repository, select **File > New Repository**.
-4. Link your local repository with GitHub:
+3. Link your local repository with GitHub:
    - In VS Code, open the integrated terminal.
    - Run the following commands to link your local folder to the remote GitHub repository:
 
