@@ -11,7 +11,7 @@ The Official FRC software installation guide can be found [here](https://docs.wp
 
 ---
 
-## 1. Install WPILib
+## 1. Install WPILib / Visual Studio
 
 WPILib provides libraries and tools needed for programming in the FRC environment.
 
