@@ -7,7 +7,7 @@ Hey guys! Team 4239, Willmar Area Robotics here.
 Below, we have listed a few required downloads for the upcoming class on Monday as well as a quick explanation of each program.
 By the end, you should have installed and setup WPILIB, VS Code, FRC Gametools, and GitHub.
 
-The Official FRC software installation guide can be found [here](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html)
+The official FRC software installation guide can be found [here](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html).
 
 ---
 
@@ -27,7 +27,7 @@ The FRC Game Tools package includes essential software for communicating with th
 
 1. Download FRC Game Tools from [National Instruments](https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html).
 2. Run the installer and follow the instructions to complete the installation.
-3. After installation, you should have the FRC Driver Station installed on your computer.
+3. After installation, you should have the FRC Driver Station and a few other software tools installed on your computer.
 
 ---
 
