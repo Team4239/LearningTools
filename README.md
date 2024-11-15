@@ -21,24 +21,7 @@ WPILib provides libraries and tools needed for programming in the FRC environmen
 
 ---
 
-## 2. Install Visual Studio Code (VS Code)
-
-Visual Studio Code is the main code editor used for FRC development.
-
-1. Download the installer for [Visual Studio Code](https://code.visualstudio.com/).
-2. Run the installer and complete the installation steps.
-3. Install the WPILib extension for VS Code:
-   - Open VS Code.
-   - Go to **Extensions** (or press `Ctrl+Shift+X`).
-   - Search for **WPILib** and install the extension.
-
-   ![Install WPILib in VS Code](https://link-to-vscode-extension-image.png)
-
-4. Restart VS Code after installation.
-
----
-
-## 3. Install FRC Game Tools
+## 2. Install FRC Game Tools
 
 The FRC Game Tools package includes essential software for communicating with the FRC control system.
 
@@ -50,7 +33,7 @@ The FRC Game Tools package includes essential software for communicating with th
 
 ---
 
-## 4. Install GitHub and Hook Your Repository
+## 3. Install GitHub and Hook Your Repository
 
 GitHub is used for version control and collaboration in FRC. Setting up a repository allows you to save and share your code with your team.
 
