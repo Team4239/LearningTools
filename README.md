@@ -46,8 +46,8 @@ GitHub is used for version control and collaboration in FRC. Setting up a reposi
 ## Conclusion
 
 Well, hopefully everything has gone well. 
-If not, we are always open to questions at oswood44@gmail.com & miguelgarc5605@gmail.com
-You should be prepared for the upcoming class; We look forward to seeing you there!
+If not, we are always open to questions at oswood44@gmail.com & miguelgarc5605@gmail.com.
+You should be ready for the upcoming class; We look forward to seeing you there!
 
 Thanks again for reading through the file, 
    Miguel Garcia
