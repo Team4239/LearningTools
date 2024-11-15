@@ -15,7 +15,7 @@ The Official FRC software installation guide can be found [here](https://docs.wp
 
 WPILib provides libraries and tools needed for programming in the FRC environment.
 
-1. Download the WPILib installer from the [official WPILib website](https://frcmaven.wpi.edu/api/download/installer/v2024.3.2/Win64/WPILib_Windows-2024.3.2.iso).
+1. Download the WPILib installer by clicking [here](https://frcmaven.wpi.edu/api/download/installer/v2024.3.2/Win64/WPILib_Windows-2024.3.2.iso).
 2. After installation, launch WPILib to confirm it’s working correctly. You’ll see options for creating new projects, opening examples, and configuring your setup.
 
 ---
