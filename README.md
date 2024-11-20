@@ -53,3 +53,26 @@ Thanks again for reading through the file,
    Miguel Garcia
    Vince Nacabuan
    Sam Oswood
+
+"// Use xbox controller only
+// No drivetrain
+// Install pheonix import
+
+
+Pt. 1
+1. Github & Project Creating
+2. Example Feed & Intake Project 
+    • Clean Code
+    • Command Robot Layout
+    • RobotContainer
+    • Documention
+3. Test
+
+Pt. 2
+1. Create Shooter System
+2. Test
+3. Adjust
+
+// ninja list
+    create subsystem
+    link controller etc."
