@@ -1,0 +1,11 @@
+Beginner
+  Code Shooter Subsystem
+  Code Shooter Command
+  Code Shooter Robot Container
+
+Intermediate
+  Shoot Ring Into Speaker
+  Link Shooter to Intake Feed in One Command
+
+Advanced
+  One button from intake to shoot
