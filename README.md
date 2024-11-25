@@ -1,3 +1,6 @@
+https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json
+
+
 # LearningTools
 Tools for the upcoming coding class Nov. 25, 2024.
 
