@@ -5,8 +5,10 @@ import edu.wpi.first.wpilibj2.command.button.CommandXboxController;
 import frc.robot.commands.IntakePivotSetPosition;
 import frc.robot.commands.IntakePivotSetSpeed;
 import frc.robot.commands.IntakeSetFeedMotorSpeed;
+import frc.robot.commands.ShooterSetSpeed;
 import frc.robot.subsystems.IntakeFeed;
 import frc.robot.subsystems.IntakePivot;
+import frc.robot.subsystems.Shooter;
 
 public class RobotContainer {
 
@@ -14,11 +16,13 @@ public class RobotContainer {
 
   private final IntakeFeed mIntakeFeed = new IntakeFeed();
   private final IntakePivot mIntakePivot = new IntakePivot();
+  private final Shooter mShooter = new Shooter();
 
   public RobotContainer() {
 
     mIntakeFeed.setDefaultCommand(new IntakeSetFeedMotorSpeed(mIntakeFeed, 0.0));
     mIntakePivot.setDefaultCommand(new IntakePivotSetSpeed(mIntakePivot, 0.0));
+    mShooter.setDefaultCommand(new ShooterSetSpeed(mShooter, 0.0, 0.0));
 
     configureBindings();
   }
@@ -30,6 +34,7 @@ public class RobotContainer {
     mXboxController.leftTrigger().whileTrue(new IntakeSetFeedMotorSpeed(mIntakeFeed, -1.0));
     mXboxController.rightTrigger().whileTrue(new IntakeSetFeedMotorSpeed(mIntakeFeed, 1.0));
     mXboxController.a().whileTrue(new IntakePivotSetSpeed(mIntakePivot, -0.03));
+    mXboxController.y().whileTrue(new ShooterSetSpeed(mShooter, 1.0, 1.0));
   }
 
   public Command getAutonomousCommand() {

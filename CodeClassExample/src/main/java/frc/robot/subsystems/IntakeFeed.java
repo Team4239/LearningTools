@@ -1,28 +1,28 @@
 package frc.robot.subsystems;
 
-import com.ctre.phoenix.motorcontrol.NeutralMode;
-import com.ctre.phoenix.motorcontrol.TalonSRXControlMode;
-import com.ctre.phoenix.motorcontrol.can.TalonSRX;
+import com.ctre.phoenix6.hardware.TalonFX;
+import com.ctre.phoenix6.signals.NeutralModeValue;
+
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
 import frc.robot.Constants;
 
 public class IntakeFeed extends SubsystemBase {
 
-  private final TalonSRX mFeedMotor = new TalonSRX(Constants.INTAKE_MOTOR_FEED);
+  private final TalonFX mFeedMotor = new TalonFX(Constants.INTAKE_MOTOR_FEED);
   
   public IntakeFeed() {
     mFeedMotor.setInverted(false);
-    mFeedMotor.setNeutralMode(NeutralMode.Coast);
+    mFeedMotor.setNeutralMode(NeutralModeValue.Coast);
   }
 
   @Override
   public void periodic() {}
 
   public void setFeedMotorSpeed(double speed) {
-    mFeedMotor.set(TalonSRXControlMode.PercentOutput, speed);
+    mFeedMotor.set(speed);
   }
 
   public void stopMotor() {
-    mFeedMotor.set(TalonSRXControlMode.Disabled, 0);
+    mFeedMotor.set(0);
   }
 }
