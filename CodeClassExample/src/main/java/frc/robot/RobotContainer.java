@@ -29,12 +29,12 @@ public class RobotContainer {
 
   private void configureBindings() {
 
-    mXboxController.rightBumper().whileTrue(new IntakePivotSetPosition(mIntakePivot, -38.0, -0.4));
-    mXboxController.leftBumper().whileTrue(new IntakePivotSetPosition(mIntakePivot, -1.0, 0.3));
-    mXboxController.leftTrigger().whileTrue(new IntakeSetFeedMotorSpeed(mIntakeFeed, -1.0));
-    mXboxController.rightTrigger().whileTrue(new IntakeSetFeedMotorSpeed(mIntakeFeed, 1.0));
+    //mXboxController.rightBumper().whileTrue(new IntakePivotSetPosition(mIntakePivot, -38.0, -0.4));
+    //mXboxController.leftBumper().whileTrue(new IntakePivotSetPosition(mIntakePivot, -1.0, 0.3));
+    //mXboxController.leftTrigger().whileTrue(new IntakeSetFeedMotorSpeed(mIntakeFeed, -1.0));
+    //mXboxController.rightTrigger().whileTrue(new IntakeSetFeedMotorSpeed(mIntakeFeed, 1.0));
     mXboxController.a().whileTrue(new IntakePivotSetSpeed(mIntakePivot, -0.03));
-    mXboxController.y().whileTrue(new ShooterSetSpeed(mShooter, 1.0, 1.0));
+    mXboxController.y().whileTrue(new ShooterSetSpeed(mShooter, 0.44, 0.4));
   }
 
   public Command getAutonomousCommand() {
